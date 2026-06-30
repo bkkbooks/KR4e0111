@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0111/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0111_WYG_000-1a, image: WYG1246/WYG1246-0521a.png}
+body:
+  text: 平橋藁别集類五明提要臣等謹案平橋藁十八卷明鄭文康撰文康字時乂號介菴崑山人其先世徙自開封故集中亦自署曰開封平橋者其所居地也登正統戊辰進士釋褐後絶意仕進閉門講學手定所作詩文為十八卷天順辛巳葉盛為序而傳之舊板久佚康熙癸酉其裔孫起泓又為重刻凡詩五卷文十三卷文康篤志經史下筆頃刻千百言丹鉛矻矻雖病不少休其詩意主勸懲詞㫖質直頗近擊壤集體而溫柔敦厚藹然可挹要不失為風人之遺文章亦不屑以修詞為工而質朴之中自中繩墨較其詩為尤勝朱彞尊以比之石介尹洙雖其所造之境地淺深不同而意度波瀾亦庶幾近之者矣乾隆四十四年八月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:1fe7ea666b59d1eddeff681b81c6646fe751c4691eccff8a0efd3a0136460499
+metadata:
+  title: 平橋藁
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:20:20.346413'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0111/KR4e0111_000.txt
+hash: sha256:1b5e8948c9aa103c797a3ac8e21d5201ae5783758ee9517d73f80fbe67add203
